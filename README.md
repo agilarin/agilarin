@@ -2,13 +2,11 @@
   <h1>Привет 👋, я Владимир Гришин</h1>
 </div>
 
-
+&nbsp;
 
 <div id="badges" align="center">
   <h3>Мои контакты:</h3>
-  <a href="#" > 
     <img alt="Mail Badge" src="https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9">
-  </a>
   <a href="https://t.me/agilerin"> 
     <img alt="Telegram Badge" src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">
   </a>
