@@ -3,9 +3,7 @@
 </div>
 
 &nbsp;
-&nbsp;
 
-  ![Telegram Badge](https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4&link=https%3A%2F%2Ft.me%2Fagilerin)
 <div id="badges" align="center">
   <h3>Мои контакты:</h3>
   <a href="" > 
