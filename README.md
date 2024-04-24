@@ -46,8 +46,8 @@
 - 👨‍💻 Все мои проекты [здесь]()
 
 
-  ## Мои контакты:
-<div id="badges" align="center">
+## Мои контакты:
+<div id="badges">
   <a href="https://t.me/agilerin"> 
     <img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram Badge">
   </a>
@@ -56,7 +56,6 @@
   </a>
 </div>
 
-&nbsp;
 
 ## Я использую технологии:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
