@@ -4,7 +4,6 @@
 
 &nbsp;
 
-
 <div id="badges" align="center">
   <h3>Мои контакты:</h3>
   <a href="https://t.me/agilerin"> 
@@ -15,6 +14,12 @@
   </a>
 </div>
 
+- Я ищу работу фронтенд-разработчика -- удаленно
+- Готов к релокации
+- Мое резюме
+- Все мои проекты [здесь]()
+
+&nbsp;
 
 ### :hammer_and_wrench: Я использую технологии:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
