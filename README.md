@@ -40,7 +40,7 @@
   <h1>Привет 👋, я Владимир Гришин</h1>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/agilerin"> 
     <img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram Badge">
   </a>
@@ -49,6 +49,7 @@
   </a>
 </div>
 
+&nbsp;
 
 ## Обо мне:
 - 🔭 Я ищу работу фронтенд-разработчика удаленно
