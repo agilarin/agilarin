@@ -4,7 +4,7 @@
 
 &nbsp;
 
-![asd](https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9)
+[asd](https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9)
 
 <div id="badges" align="center">
   <h3>Мои контакты:</h3>
