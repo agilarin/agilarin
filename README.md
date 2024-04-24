@@ -41,7 +41,6 @@
 </div>
 
 <div id="badges">
-  <h1>Мои контакты:</h1>
   <a href="https://t.me/agilerin"> 
     <img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram Badge">
   </a>
@@ -50,7 +49,6 @@
   </a>
 </div>
 
-# Обо мне:
 - 🔭 Я ищу работу фронтенд-разработчика удаленно
 - 🚗 Готов к релокации
 - 📝 Мое резюме
