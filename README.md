@@ -5,13 +5,13 @@
 &nbsp;
 
 
-<div id="badges">
+<div id="badges" align="center">
   <h3>Мои контакты:</h3>
   <a href="https://t.me/agilerin">
-    <img alt="Mail Badge" src="https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9">
+    <img src="https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9" alt="Mail Badge">
   </a>
   <a href="https://t.me/agilerin"> 
-    <img alt="Telegram Badge" src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">
+    <img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram Badge">
   </a>
 </div>
 
