@@ -5,7 +5,7 @@
 &nbsp;
 
 
-<div id="badges" align="center">
+<div id="badges" align="center" markdown="1">
   <h3>Мои контакты:</h3>
 [![Mail Badge](https://img.shields.io/badge/mail-logo?style=for-the-badge&logo=maildotru&logoColor=%23FF9E00&color=%23005FF9)](mailto:mail@example.com)
 [![Telegram Badge](https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/agilerin)
