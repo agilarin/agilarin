@@ -15,7 +15,7 @@
   </a>
 </div>
 
-===
+==
 
 ### :hammer_and_wrench: Я использую технологии:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
