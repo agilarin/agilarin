@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <h1>Привет 👋, я Владимир Гришин</h1>
 </div>
 
